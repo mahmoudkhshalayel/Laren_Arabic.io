@@ -1,0 +1,68 @@
+/* *********************************navbar************************** */
+nav .navbar-brand{
+    color: #dc3545 !important; 
+    font-weight: bold;
+}
+nav .nav-link{
+    font-size: 18px;
+}
+#li2{
+    margin-left: 1352px;
+}
+/* ********************************header************************** */
+header{
+    background: url('../img/cover.jpg') no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    position: relative;
+}
+header h1{
+    position: absolute;
+    color: #fff;
+    top: 40%;
+    left: 20%;
+}
+/* ********************************About************************* */
+.about{
+   padding: 100px 0;
+   background-color: #eee;
+}
+.line{
+    background-color: #dc3545;
+    width: 8%;
+    height: 3px;
+    margin: auto;
+}
+.about p{
+    margin: 40px 0;
+}
+.about button{
+    border-radius: 15px 30px;
+}
+#home h1{margin-left: 550px;}
+
+/* ********************************services******************************* */
+.services{padding: 100px 0;}
+.services .line{margin-bottom: 30px;}
+
+/* **************************************Our State ***************************/
+.state{padding: 100px 0; background-color: #dc3545; color: #fff;}
+.state .line{background-color: #fff; margin-bottom: 30px;}
+.state i, .state h5, .state span{
+    font-size: 30px;
+}
+/* *************************************contact*************************** */
+.contact{
+    padding: 100px 0;
+}
+.contact .line{
+    margin-bottom: 30px;
+}
+.contact button{
+    width: 100%;
+}
+#course1{
+    text-decoration: none;color: black;
+}
+

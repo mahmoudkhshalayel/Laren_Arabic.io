@@ -1,0 +1,25 @@
+/* @media(min-width:576px) small screen */
+/* @media(min-width:768px) tablate screen */
+/* @media(min-width:992px) large screen */
+/* @media(min-width:1200px) Xlarge screen */
+
+
+/***** Iphone******/
+@media(max-width:768px){
+
+    header h1{font-size: px; left: 12%;}
+    .services .card{width: 100% !important;}
+    .state .box {margin-bottom: 40px;}
+
+}
+
+/***** Ipad ******/
+@media(width:768px){
+    header h1{font-size: 30px;}
+}
+@media(min-width:1200px){
+.contact button{
+    margin-left: -245px;
+}
+#but{margin-left: 300px !important;}
+}
